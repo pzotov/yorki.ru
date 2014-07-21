@@ -1,0 +1,43 @@
+.content {
+	line-height: 1.5;
+}
+.content_pink {
+	color: #fcc;
+}
+.content p {
+	margin-bottom:1.5em;
+}
+.content ul,
+.content ol {
+	padding-left:3em;
+}
+.content ul li {
+	list-style:circle inside;
+}
+.content ol li {
+	list-style:decimal inside;
+}
+
+.content table {
+	width: 100%;
+	margin: 1em 0;
+}
+.content td,
+.content th {
+	padding: 10px 5px;
+	border: 1px solid #ccc;
+}
+
+h1 {
+	font-size: 22px;
+	color: #fff;
+	text-shadow: 2px 2px 4px #300;
+	font-style: italic;
+	margin-bottom: 40px;
+}
+
+.content h4 {
+	font-size: 21px;
+	font-style: italic;
+	margin-bottom: 1em;
+}

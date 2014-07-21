@@ -1,0 +1,20 @@
+{
+  "name": "zotov.info",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-autoprefixer": "~0.2.20130806",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-ftp-push": "~0.1.3"
+  }
+}
